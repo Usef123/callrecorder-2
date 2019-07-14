@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "265375546437",
+    "firebase_url": "https://super-call-recorder-478f6.firebaseio.com",
+    "project_id": "super-call-recorder-478f6",
+    "storage_bucket": "super-call-recorder-478f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265375546437:android:20bd103982bc43c4",
+        "android_client_info": {
+          "package_name": "com.technercia.supercallrecorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265375546437-pqd40qsm2d9ar2p1veb9j9904n67so99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.technercia.supercallrecorder",
+            "certificate_hash": "cbf5c7ede96a1083a7491c3c54355f5321ed4bcc"
+          }
+        },
+        {
+          "client_id": "265375546437-s0r6afbc7ag6ivu140b9s95vlmquuicl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk0DyZ0y07SA8RbXxnM9Jzm1cz14nmYQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265375546437-s0r6afbc7ag6ivu140b9s95vlmquuicl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
